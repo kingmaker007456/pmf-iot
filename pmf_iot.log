@@ -1,0 +1,11 @@
+2025-12-04 18:37:12,076 - __main__ - ERROR - Grid Search failed to find a valid model for temperature.
+2025-12-04 18:37:12,225 - __main__ - ERROR - Grid Search failed to find a valid model for vibration.
+2025-12-04 18:37:12,259 - __main__ - ERROR - One or both models failed to train and were not saved.
+2025-12-04 18:39:39,423 - model_pipeline - WARNING - Model files not found. Models must be trained first.
+2025-12-04 18:39:39,435 - PMF-IoT_API - WARNING - No pre-trained models found. Prediction endpoint will fail until /train is called.
+2025-12-04 18:42:21,857 - __main__ - ERROR - Grid Search failed to find a valid model for temperature.
+2025-12-04 18:42:21,972 - __main__ - ERROR - Grid Search failed to find a valid model for vibration.
+2025-12-04 18:42:22,037 - __main__ - ERROR - One or both models failed to train and were not saved.
+2025-12-04 19:16:52,648 - __main__ - ERROR - Grid Search failed to find a valid model for temperature.
+2025-12-04 19:16:52,801 - __main__ - ERROR - Grid Search failed to find a valid model for vibration.
+2025-12-04 19:16:52,857 - __main__ - ERROR - One or both models failed to train and were not saved.
